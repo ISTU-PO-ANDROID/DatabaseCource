@@ -1,0 +1,15 @@
+# JetBrains IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Файлы модулей
+/*.iml
+/modules.xml
+
+# Настройки покрытия кода
+/.coverage
+
+# Файлы профилирования
+/*.profraw
